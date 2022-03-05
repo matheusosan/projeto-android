@@ -85,11 +85,11 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    max-width: 500px;
+    max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    padding-bottom: 0px;
+    padding-bottom: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.479);
 }
 
